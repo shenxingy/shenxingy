@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Xingyu(Alex) SHEN. A senior student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
 <!--
 **shenxingy/shenxingy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
