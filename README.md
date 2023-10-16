@@ -2,7 +2,12 @@
 
 I'm Xingyu(Alex) SHEN. A senior student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenxingy&layout=compact)
+<div align="center">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=shenxingy&layout=compact alt=""/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=shenxingy&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **shenxingy/shenxingy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
