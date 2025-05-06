@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xingyu (Alex) SHEN, a Master of Engineering (MEng) student in Electronic and Computer Engineering (ECE) at [Duke University Pratt School](https://pratt.duke.edu/). This May, I just graduated from [Duke Kunshan University](https://www.dukekunshan.edu.cn/) with a degree in Data Science.
+I'm Xingyu (Alex) SHEN, a Master of Engineering (MEng) student in Electronic and Computer Engineering (ECE) at [Duke Pratt School of Engineering](https://pratt.duke.edu/). This May, I just graduated from [Duke Kunshan University](https://www.dukekunshan.edu.cn/) with a degree in Data Science.
 
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=shenxingy&layout=compact alt=""/>
