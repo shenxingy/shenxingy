@@ -20,10 +20,10 @@ I design and ship AI fraud detection systems at Scam AI — voice clone detectio
 
 #### Projects
 
-[**FactorySIM**](https://github.com/factorysim-duke) — Large-scale factory simulation · Java, LibGDX
-[**MealMates**](https://github.com/shenxingy/MealMates) — Full-stack meal planning app · React Native, Next.js, tRPC
-[**Duke Duber**](https://github.com/shenxingy/duke-duber) — Ride-sharing with driver/rider matching · Django, PostgreSQL
-[**VoxBlink-CN**](https://github.com/shenxingy/VoxBlink-CN) — Chinese speaker verification dataset · Python, PyTorch
+[**FactorySIM**](https://github.com/factorysim-duke) — Large-scale factory simulation · Java, LibGDX <br>
+[**MealMates**](https://github.com/shenxingy/MealMates) — Full-stack meal planning app · React Native, Next.js, tRPC <br>
+[**Duke Duber**](https://github.com/shenxingy/duke-duber) — Ride-sharing with driver/rider matching · Django, PostgreSQL <br>
+[**VoxBlink-CN**](https://github.com/shenxingy/VoxBlink-CN) — Chinese speaker verification dataset · Python, PyTorch <br>
 [**RTVis**](https://github.com/RTVis/RTVis) — Research trend visualization · Python, Jupyter
 
 <br>
