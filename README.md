@@ -2,7 +2,7 @@
 
 # Alex Shen
 
-**Founding Engineer @ [Scam AI](https://www.scam.ai/en)** · Berkeley SkyDeck
+Founding Engineer @ [Scam AI](https://www.scam.ai/en) · Berkeley SkyDeck
 
 *Building tools to detect AI-powered fraud.*
 
@@ -10,32 +10,18 @@
 
 MEng ECE @ [Duke](https://pratt.duke.edu/) · B.S. Data Science @ [Duke Kunshan](https://www.dukekunshan.edu.cn/)
 
-</div>
+<br><br>
+
+<samp>
+<a href="https://github.com/factorysim-duke">FactorySIM</a> ·
+<a href="https://github.com/shenxingy/MealMates">MealMates</a> ·
+<a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> ·
+<a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> ·
+<a href="https://github.com/RTVis/RTVis">RTVis</a>
+</samp>
 
 <br>
 
-I design and ship AI fraud detection systems at Scam AI — voice clone detection, deepfake analysis, real-time face swapping, and internal tooling.
+<sub><a href="mailto:alex@get-reality.com">alex@get-reality.com</a> · <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a></sub>
 
-<br>
-
-#### Projects
-
-[**FactorySIM**](https://github.com/factorysim-duke) — Large-scale factory simulation · Java, LibGDX <br>
-[**MealMates**](https://github.com/shenxingy/MealMates) — Full-stack meal planning app · React Native, Next.js, tRPC <br>
-[**Duke Duber**](https://github.com/shenxingy/duke-duber) — Ride-sharing with driver/rider matching · Django, PostgreSQL <br>
-[**VoxBlink-CN**](https://github.com/shenxingy/VoxBlink-CN) — Chinese speaker verification dataset · Python, PyTorch <br>
-[**RTVis**](https://github.com/RTVis/RTVis) — Research trend visualization · Python, Jupyter
-
-<br>
-
-#### Technologies
-
-Python · TypeScript · C++ · Java · PyTorch · React · Next.js · Node.js · Docker · AWS · Kubernetes · PostgreSQL
-
-<br>
-
----
-
-<div align="center">
-  <sub><a href="mailto:alex@get-reality.com">alex@get-reality.com</a> · <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a></sub>
 </div>
