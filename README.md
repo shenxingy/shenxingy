@@ -12,8 +12,6 @@ I'm always open to learning new technologies and collaborating on impactful proj
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxingy&layout=compact" alt="Top Languages"/>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=shenxingy&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
