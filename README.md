@@ -23,6 +23,6 @@ MEng ECE @ [Duke](https://pratt.duke.edu/) · B.S. Data Science @ [Duke Kunshan]
 
 <br>
 
-<sub><a href="mailto:alex@get-reality.com">alex@get-reality.com</a> · <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a></sub>
+<sub><a href="mailto:alex@get-reality.com">alex@get-reality.com</a> · <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&hl=en">Google Scholar</a></sub>
 
 </div>
