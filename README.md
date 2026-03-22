@@ -17,7 +17,8 @@ MEng ECE @ [Duke](https://pratt.duke.edu/) · B.S. Data Science @ [Duke Kunshan]
 <a href="https://github.com/shenxingy/MealMates">MealMates</a> ·
 <a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> ·
 <a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> ·
-<a href="https://github.com/RTVis/RTVis">RTVis</a>
+<a href="https://github.com/RTVis/RTVis">RTVis</a> ·
+<a href="https://github.com/shenxingy/claude-code-kit">Claude Code Kit</a>
 </samp>
 
 <br>
