@@ -26,7 +26,7 @@ MEng ECE @ [Duke](https://pratt.duke.edu/) · B.S. Data Science @ [Duke Kunshan]
 
 <a href="https://h1b-compass.vercel.app">h1b-compass</a> — interactive H1B prevailing wage map by metro area · <a href="https://github.com/shenxingy/h1b-compass">source</a>
 
-<a href="https://alexshen.dev">alexshen.dev</a> — personal site · Next.js 15, Tailwind v4, MDX · <a href="https://github.com/shenxingy/personal-site">source</a>
+<a href="https://alexshen.dev">alexshen.dev</a> — personal site · Next.js 15, Tailwind v4, MDX · <a href="https://github.com/shenxingy/alexshen.dev">source</a>
 
 <br>
 
