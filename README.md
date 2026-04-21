@@ -1,45 +1,64 @@
 <div align="center">
 
-# Alex Shen
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <img src="assets/masthead-light.svg" alt="Alex Shen — Founding Engineer at Scam AI · Berkeley SkyDeck · Vol. I, MMXXVI" width="680">
+</picture>
 
-Founding Engineer @ [Scam AI](https://www.scam.ai/en) · Berkeley SkyDeck
+<br>
 
 *Building tools to detect AI-powered fraud.*
 
 <br>
 
-MEng ECE @ [Duke](https://pratt.duke.edu/) · B.S. Data Science @ [Duke Kunshan](https://www.dukekunshan.edu.cn/)
+<sub>MEng ECE @ <a href="https://pratt.duke.edu/">Duke</a> &nbsp;·&nbsp; B.S. Data Science @ <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a></sub>
 
 <br><br>
 
-<samp>
-
-**AI & Automation**
-
-<a href="https://github.com/shenxingy/clade">Clade</a> — autonomous coding toolkit for Claude Code · hooks, agents, skills, self-correction loop
-
-<a href="https://github.com/shenxingy/ai-ap-manager">ai-ap-manager</a> — AI-native Accounts Payable automation · invoice OCR → matching → approval workflows
+<samp>§&ensp;01 &nbsp;—&nbsp; AI &amp; AUTOMATION</samp>
 
 <br>
 
-**Tools & Apps**
+<a href="https://github.com/shenxingy/clade">clade</a> &nbsp;—&nbsp; autonomous coding toolkit for Claude Code &nbsp;·&nbsp; hooks, agents, skills, self-correction loop
 
-<a href="https://h1b-compass.vercel.app">h1b-compass</a> — interactive H1B prevailing wage map by metro area · <a href="https://github.com/shenxingy/h1b-compass">source</a>
-
-<a href="https://alexshen.dev">alexshen.dev</a> — personal site · Next.js 15, Tailwind v4, MDX · <a href="https://github.com/shenxingy/alexshen.dev">source</a>
+<a href="https://github.com/shenxingy/ai-ap-manager">ai-ap-manager</a> &nbsp;—&nbsp; AI-native accounts payable automation &nbsp;·&nbsp; invoice OCR → matching → approval workflows
 
 <br>
 
-**Research & Coursework**
-
-<a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> — Chinese speaker recognition dataset & baseline
-
-<a href="https://github.com/factorysim-duke">FactorySIM</a> · <a href="https://github.com/shenxingy/MealMates">MealMates</a> · <a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> · <a href="https://github.com/RTVis/RTVis">RTVis</a>
-
-</samp>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" alt="" width="680">
+</picture>
 
 <br>
 
-<sub><a href="mailto:alex@scam.ai">alex@scam.ai</a> · <a href="https://alexshen.dev">alexshen.dev</a> · <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&hl=en">Google Scholar</a></sub>
+<samp>§&ensp;02 &nbsp;—&nbsp; TOOLS &amp; APPS</samp>
+
+<br>
+
+<a href="https://h1b-compass.vercel.app">h1b-compass</a> &nbsp;—&nbsp; interactive H1B prevailing wage map by metro area &nbsp;·&nbsp; <a href="https://github.com/shenxingy/h1b-compass">source</a>
+
+<a href="https://alexshen.dev">alexshen.dev</a> &nbsp;—&nbsp; personal site &nbsp;·&nbsp; Next.js 15, Tailwind v4, MDX &nbsp;·&nbsp; <a href="https://github.com/shenxingy/alexshen.dev">source</a>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" alt="" width="680">
+</picture>
+
+<br>
+
+<samp>§&ensp;03 &nbsp;—&nbsp; RESEARCH &amp; COURSEWORK</samp>
+
+<br>
+
+<a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> &nbsp;—&nbsp; Chinese speaker recognition dataset &amp; baseline
+
+<a href="https://github.com/factorysim-duke">FactorySIM</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/MealMates">MealMates</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> &nbsp;·&nbsp; <a href="https://github.com/RTVis/RTVis">RTVis</a>
+
+<br><br>
+
+<sub><a href="mailto:alex@scam.ai">alex@scam.ai</a> &nbsp;·&nbsp; <a href="https://alexshen.dev">alexshen.dev</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&amp;hl=en">Google Scholar</a></sub>
 
 </div>
