@@ -2,39 +2,27 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
-  <img src="assets/masthead-light.svg" alt="Alex Shen — Vol. I, MMXXVI" width="680">
+  <img src="assets/masthead-light.svg" alt="Alex Shen" width="680">
 </picture>
 
-*Building tools to detect AI-powered fraud.*
-
-<sub>Founding Engineer @ <a href="https://www.scam.ai/en">Scam AI</a> &nbsp;·&nbsp; Berkeley SkyDeck &nbsp;·&nbsp; MEng ECE @ <a href="https://pratt.duke.edu/">Duke</a> &nbsp;·&nbsp; B.S. Data Science @ <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a></sub>
+Founding Engineer at [Scam AI](https://www.scam.ai/en). Building tools to detect AI-powered fraud.
 
 <br>
 
-<samp>§&ensp;01 &nbsp;—&nbsp; AI &amp; AUTOMATION</samp>
+[clade](https://github.com/shenxingy/clade) — autonomous coding toolkit for Claude Code
 
-<a href="https://github.com/shenxingy/clade">clade</a> &nbsp;—&nbsp; autonomous coding toolkit for Claude Code &nbsp;·&nbsp; hooks, agents, skills, self-correction loop
+[ai-ap-manager](https://github.com/shenxingy/ai-ap-manager) — AI-native accounts payable automation
 
-<a href="https://github.com/shenxingy/ai-ap-manager">ai-ap-manager</a> &nbsp;—&nbsp; AI-native accounts payable automation &nbsp;·&nbsp; invoice OCR → matching → approval workflows
+[h1b-compass](https://h1b-compass.vercel.app) — H1B prevailing wage map &nbsp;·&nbsp; [source](https://github.com/shenxingy/h1b-compass)
 
-<br>
+[alexshen.dev](https://alexshen.dev) — personal site &nbsp;·&nbsp; [source](https://github.com/shenxingy/alexshen.dev)
 
-<samp>§&ensp;02 &nbsp;—&nbsp; TOOLS &amp; APPS</samp>
+[VoxBlink-CN](https://github.com/shenxingy/VoxBlink-CN) — Chinese speaker recognition dataset
 
-<a href="https://h1b-compass.vercel.app">h1b-compass</a> &nbsp;—&nbsp; interactive H1B prevailing wage map by metro area &nbsp;·&nbsp; <a href="https://github.com/shenxingy/h1b-compass">source</a>
-
-<a href="https://alexshen.dev">alexshen.dev</a> &nbsp;—&nbsp; personal site &nbsp;·&nbsp; Next.js 15, Tailwind v4, MDX &nbsp;·&nbsp; <a href="https://github.com/shenxingy/alexshen.dev">source</a>
+<sub>[FactorySIM](https://github.com/factorysim-duke) &nbsp;·&nbsp; [MealMates](https://github.com/shenxingy/MealMates) &nbsp;·&nbsp; [Duke Duber](https://github.com/shenxingy/duke-duber) &nbsp;·&nbsp; [RTVis](https://github.com/RTVis/RTVis)</sub>
 
 <br>
 
-<samp>§&ensp;03 &nbsp;—&nbsp; RESEARCH &amp; COURSEWORK</samp>
-
-<a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> &nbsp;—&nbsp; Chinese speaker recognition dataset &amp; baseline
-
-<a href="https://github.com/factorysim-duke">FactorySIM</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/MealMates">MealMates</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> &nbsp;·&nbsp; <a href="https://github.com/RTVis/RTVis">RTVis</a>
-
-<br>
-
-<sub><a href="mailto:alex@scam.ai">alex@scam.ai</a> &nbsp;·&nbsp; <a href="https://alexshen.dev">alexshen.dev</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&amp;hl=en">Google Scholar</a></sub>
+<sub>[alex@scam.ai](mailto:alex@scam.ai) &nbsp;·&nbsp; [alexshen.dev](https://alexshen.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/xingyu-shen-duke) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&hl=en)</sub>
 
 </div>
