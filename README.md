@@ -2,22 +2,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
-  <img src="assets/masthead-light.svg" alt="Alex Shen — Founding Engineer at Scam AI · Berkeley SkyDeck · Vol. I, MMXXVI" width="680">
+  <img src="assets/masthead-light.svg" alt="Alex Shen — Vol. I, MMXXVI" width="680">
 </picture>
-
-<br>
 
 *Building tools to detect AI-powered fraud.*
 
+<sub>Founding Engineer @ <a href="https://www.scam.ai/en">Scam AI</a> &nbsp;·&nbsp; Berkeley SkyDeck &nbsp;·&nbsp; MEng ECE @ <a href="https://pratt.duke.edu/">Duke</a> &nbsp;·&nbsp; B.S. Data Science @ <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a></sub>
+
 <br>
-
-<sub>MEng ECE @ <a href="https://pratt.duke.edu/">Duke</a> &nbsp;·&nbsp; B.S. Data Science @ <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a></sub>
-
-<br><br>
 
 <samp>§&ensp;01 &nbsp;—&nbsp; AI &amp; AUTOMATION</samp>
-
-<br>
 
 <a href="https://github.com/shenxingy/clade">clade</a> &nbsp;—&nbsp; autonomous coding toolkit for Claude Code &nbsp;·&nbsp; hooks, agents, skills, self-correction loop
 
@@ -25,16 +19,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <img src="assets/rule-light.svg" alt="" width="680">
-</picture>
-
-<br>
-
 <samp>§&ensp;02 &nbsp;—&nbsp; TOOLS &amp; APPS</samp>
-
-<br>
 
 <a href="https://h1b-compass.vercel.app">h1b-compass</a> &nbsp;—&nbsp; interactive H1B prevailing wage map by metro area &nbsp;·&nbsp; <a href="https://github.com/shenxingy/h1b-compass">source</a>
 
@@ -42,22 +27,13 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <img src="assets/rule-light.svg" alt="" width="680">
-</picture>
-
-<br>
-
 <samp>§&ensp;03 &nbsp;—&nbsp; RESEARCH &amp; COURSEWORK</samp>
-
-<br>
 
 <a href="https://github.com/shenxingy/VoxBlink-CN">VoxBlink-CN</a> &nbsp;—&nbsp; Chinese speaker recognition dataset &amp; baseline
 
 <a href="https://github.com/factorysim-duke">FactorySIM</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/MealMates">MealMates</a> &nbsp;·&nbsp; <a href="https://github.com/shenxingy/duke-duber">Duke Duber</a> &nbsp;·&nbsp; <a href="https://github.com/RTVis/RTVis">RTVis</a>
 
-<br><br>
+<br>
 
 <sub><a href="mailto:alex@scam.ai">alex@scam.ai</a> &nbsp;·&nbsp; <a href="https://alexshen.dev">alexshen.dev</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/xingyu-shen-duke">LinkedIn</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=jVOQ8D0AAAAJ&amp;hl=en">Google Scholar</a></sub>
 
