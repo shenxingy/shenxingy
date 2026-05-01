@@ -5,7 +5,7 @@
   <img src="assets/masthead-light.svg" alt="Alex Shen" width="680">
 </picture>
 
-Founding Engineer at [Scam AI](https://www.scam.ai/en). Building tools to detect AI-powered fraud.
+Founding Engineer at [Reality Inc.](https://www.linkedin.com/company/scamai/). Building tools to detect AI-powered fraud.
 
 <br>
 
